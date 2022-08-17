@@ -1,2 +1,1 @@
-# Smart.Energy.Meter
-# Project Detail
+# Smart Energy Meter
