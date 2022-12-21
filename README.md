@@ -50,6 +50,7 @@ The simluation of each component is given below.
 ### Results 
 
 With the help of waveforms of current & voltage, phase can be calculated. Consequently, power (active + reactive power) can be found. 
+
 ![calculate phase delay](https://user-images.githubusercontent.com/48818645/208974386-4b87bbc5-993e-4dbc-a64c-523bee8f5c0c.PNG)
 
 Energy bill amount can be send via sms and payment can be done using the phone.
