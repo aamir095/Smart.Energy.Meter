@@ -45,6 +45,21 @@ The simluation of each component is given below.
 3. Simulation of Current Measurement Unit
 ![simulation of current measurement](https://user-images.githubusercontent.com/48818645/208965390-d9e653f8-bb05-4a31-ae9f-7153d899e460.PNG)
 4. Phase Measurement Unit
-![simulation of phase measurement unit](https://user-images.githubusercontent.com/48818645/208966403-8199a38e-a39a-4fad-b1fe-236cfec5f2f0.PNG)
 
+ ![simulation of phase measurement unit](https://user-images.githubusercontent.com/48818645/208966403-8199a38e-a39a-4fad-b1fe-236cfec5f2f0.PNG)
+
+### Results 
+
+With the help of waveforms of current & voltage, phase can be calculated. Consequently, power (active + reactive power) can be found. 
+![calculate phase delay](https://user-images.githubusercontent.com/48818645/208974386-4b87bbc5-993e-4dbc-a64c-523bee8f5c0c.PNG)
+
+Energy bill amount can be send via sms and payment can be done using the phone.
+![lcd display](https://user-images.githubusercontent.com/48818645/208974835-891a6113-a2f9-4350-8857-81068a97e2c0.jpg)
+
+![bill payment](https://user-images.githubusercontent.com/48818645/208975297-571ca02b-00fa-48c3-bf13-6e11a6514cbb.PNG)
+
+![active n reactive power](https://user-images.githubusercontent.com/48818645/208976557-57a0a860-73fc-403a-a55e-919045559d47.PNG)
+
+### Conclusion
+A Smart Energy Meter was build that can measure Current, Voltage, Phase, Active & Reactive Power, energy bill and payment system. 
 
