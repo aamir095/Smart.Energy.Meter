@@ -18,8 +18,7 @@ The main idea is to replace traditional analog meter with Smart and digital ener
 
 The below table explain the functions of each component.
 
-
-![components and it's function](https://user-images.githubusercontent.com/48818645/208936305-c20e855b-5619-4a66-8cce-a32b79857639.PNG)
+![components and it's function](https://user-images.githubusercontent.com/48818645/209007052-db5f6bd2-713e-4421-9eec-bfbcf63244ae.PNG)
 
 ### Flow Diagram
 
