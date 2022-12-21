@@ -61,5 +61,14 @@ Energy bill amount can be send via sms and payment can be done using the phone.
 ![active n reactive power](https://user-images.githubusercontent.com/48818645/208976557-57a0a860-73fc-403a-a55e-919045559d47.PNG)
 
 ### Conclusion
-A Smart Energy Meter was build that can measure Current, Voltage, Phase, Active & Reactive Power, energy bill and payment system. 
+A Smart Energy Meter was build that can measure Current, Voltage, Phase, Active & Reactive Power, Energy Bill and Payment System. 
 
+ ### Appendix
+ 
+ Printed Circuit Board
+ 
+ For this project, PCB is printed. Here is the layout for the front and back of PCB board.
+ 
+ ![PCB layout](https://user-images.githubusercontent.com/48818645/209006094-bc67b6b3-3a41-4d40-a9a0-edf0a8aee79a.PNG)
+
+ 
