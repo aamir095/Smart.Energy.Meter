@@ -6,7 +6,7 @@ The main objective of this project:
 1. to build a smart energy meter
 2. bill payment sytem through SMS
 
-The main idea is to replace traditional analog meter with Smart and digital energy meter in the conetxt of my country. We built a prototype of Smart Energy Meter using different electrical and electronics components. 
+The main idea is to replace traditional analog meter with Smart and digital energy meter in the context of my country. We built a prototype of Smart Energy Meter using different electrical and electronics components. 
 
 ![smart meter pic](https://user-images.githubusercontent.com/48818645/208939709-1e1c02e6-4d4b-45ad-8446-d8b7dba3b6a6.PNG)
 
