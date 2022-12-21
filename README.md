@@ -13,3 +13,8 @@ The main idea is to replace traditional analog meter with Smart and digital ener
 ### Block Diagram 
 
 ![block_diagram_project](https://user-images.githubusercontent.com/48818645/208931637-4e3e5807-9cc0-4b1e-8f51-c8663334e52e.PNG)
+
+The below table explain the functions of each component.
+
+
+![components and it's function](https://user-images.githubusercontent.com/48818645/208936305-c20e855b-5619-4a66-8cce-a32b79857639.PNG)
